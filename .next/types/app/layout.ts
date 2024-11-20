@@ -1,4 +1,4 @@
-// File: C:\Users\gerome.blanco\Documents\REX-Submission-Form\app\layout.jsx
+// File: C:\Users\Aretex- Chloe\OneDrive\Documents\GitHub\RTSF\app\layout.jsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
